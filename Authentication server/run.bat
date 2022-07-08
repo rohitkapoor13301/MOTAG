@@ -1,0 +1,2 @@
+python AuthenticationServer.py
+pause
