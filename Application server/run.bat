@@ -1,0 +1,2 @@
+python ApplicationServer.py
+pause
